@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaliil
 - 👀 I’m interested in user experience
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming / UI design
 - 💞️ I’m looking to collaborate on ux/ui projects
 - 📫 How to reach me instagram @chaliil
 
